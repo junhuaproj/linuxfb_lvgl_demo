@@ -7,7 +7,7 @@
 * arm linux，t113,rgb 7寸 1024X600
 ## 只是LVGL功能的测试，不稳定，网络延迟等原因可能导致卡死
 ## 启动
-<img src="https://github.com/junhuaproj/linuxfb_lvgl_demo/blob/45c1a59030fd267ba734f7bd5b30e1c791a532d7/image/menu.png"/>
+![image](https://github.com/junhuaproj/linuxfb_lvgl_demo/blob/45c1a59030fd267ba734f7bd5b30e1c791a532d7/image/menu.png)
 ## 股票
 ![image](image/stock_today.png "股票")
 ![image](image/stock_plot.png "股票")
